@@ -67,7 +67,7 @@ This script provides a command-line interface (CLI) for securely downloading Hug
 To see all available options, run:
 
 ```bash
-    python llm_downloader.py --help
+    uv run llm_downloader.py --help
 ```
 
 ## Error Handling
